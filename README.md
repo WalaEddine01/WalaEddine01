@@ -1,8 +1,8 @@
-#👋 Welcome to My GitHub Profile! 👨‍💻
+👋 Welcome to My GitHub Profile! 👨‍💻
 
 I'm Walaaeddine, a student of Computer Science Engineering and a passionate software engineer in the making. 💻
 
-#🌱 Currently, I'm enrolled in the ALX Software Engineering program. 🚀
+🌱 Currently, I'm enrolled in the ALX Software Engineering program. 🚀
 
 On this GitHub profile, you'll find a collection of my projects, showcasing my dedication to learning and exploring new technologies. From web development to algorithms and data structures. 💡
 
