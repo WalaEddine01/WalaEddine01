@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wala Eddine</h1>
 <h3 align="center">ALX software engineer student</h3>
-<h3 align="center"></h3>
 
 <p align="left"> <img src="https://user-badge.committers.top/algeria/WalaEddine01.svg" alt="walaeddine01" /> </p>
 linke -> https://committers.top/algeria#WalaEddine01
