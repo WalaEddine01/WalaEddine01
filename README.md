@@ -2,7 +2,6 @@
 <h3 align="center">ALX software engineer student</h3>
 
 <p align="left"> <a href="https://committers.top/algeria#WalaEddine01" target="_blank" ><img src="https://user-badge.committers.top/algeria/WalaEddine01.svg" alt="walaeddine01" /> </a></p> 
-linke -> https://committers.top/algeria#WalaEddine01
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walaeddine01&label=Profile%20views&color=0e75b6&style=flat" alt="walaeddine01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walaeddine01" alt="walaeddine01" /></a> </p>
