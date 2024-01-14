@@ -4,7 +4,16 @@
 <p align="left"> <a href="https://committers.top/algeria#WalaEddine01" target="_blank" ><img src="https://user-badge.committers.top/algeria/WalaEddine01.svg" alt="walaeddine01" /> </a></p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walaeddine01&label=Profile%20views&color=0e75b6&style=flat" alt="walaeddine01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walaeddine01" alt="walaeddine01" /></a> </p>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=walaeddine01&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=walaeddine01&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=walaeddine01&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=walaeddine01&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 
 <p align="left"> <a href="https://twitter.com/w1laaeddine" target="blank"><img src="https://img.shields.io/twitter/follow/w1laaeddine?logo=twitter&style=for-the-badge" alt="w1laaeddine" /></a> </p>
 
