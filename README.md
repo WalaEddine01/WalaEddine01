@@ -1,5 +1,5 @@
 <div align="center">
-<link href="/standard.gif.gif" type="image/gif">
+<img src="standard.gif.gif"></img>
 </div>
 
 ###
