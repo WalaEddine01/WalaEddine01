@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Wala Eddine</h1>
+<div align="center">
+  <img height="150" src="https://share.creavite.co/65a405088669932a60f17892.gif"  />
+</div>
+
+###
 <h3 align="center">ALX software engineer student</h3>
 
 <p align="left"> <a href="https://committers.top/algeria#WalaEddine01" target="_blank" ><img src="https://user-badge.committers.top/algeria/WalaEddine01.svg" alt="walaeddine01" /> </a></p> 
