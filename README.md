@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WalaEddine01?tab=repositories](https://github.com/WalaEddine01?tab=repositories)
 
-- 📫 How to reach me **walaaeddine33@gmail.com**
+- 📫 How to reach me **wala.eddine.boulebbina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
