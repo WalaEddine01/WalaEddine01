@@ -24,8 +24,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WalaEddine01?tab=repositories](https://github.com/WalaEddine01?tab=repositories)
 
-- 📫 How to reach me **wala.eddine.boulebbina@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/w1laaeddine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w1laaeddine" height="30" width="40" /></a>
